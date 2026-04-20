@@ -6,3 +6,7 @@ gensim
 scikit-learn
 python-louvain
 ipykernel
+node2vec
+igraph
+leidenalg
+seaborn
