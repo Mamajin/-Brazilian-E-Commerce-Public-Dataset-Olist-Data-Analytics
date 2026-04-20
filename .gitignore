@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data and Artifacts (ignore datasets and local results)
+data/
+output/
+*.csv
+*.png
+*.jpg
+
+# Editor / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
